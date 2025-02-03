@@ -28,7 +28,7 @@ The project consists of several SQL scripts handling different aspects of HR dat
  • SQL Views Creation – Creates SQL Views for easy access to HR-related data.
  • SQLServer Backups_hr – Manages full and differential backups for data protection.
 
- # Technologies Used
+ Technologies Used
 
  • SQL Server – Database Management System
  • T-SQL – Query Language
